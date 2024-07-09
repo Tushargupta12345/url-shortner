@@ -13,6 +13,7 @@ This project implements a simple URL shortener service using HTML, CSS, and Java
 - Redirect users from short URLs to original long URLs
 
  ## Screenshots
+ 
  Here are some screenshots of the application to give you a better idea of its look and feel:
 
  ![Screenshot 2024-07-06 003256](https://github.com/Tushargupta12345/url-shortner/assets/123641269/627ffad6-742d-43b9-acb7-32619f32a586)
